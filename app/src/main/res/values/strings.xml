@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="firebase_auth">Firebase Auth</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="send_email">Send Email</string>
+    <string name="password">Password</string>
+    <string name="or">OR</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
