@@ -53,6 +53,7 @@ class SignInActivity : AppCompatActivity() {
         }
         binding.btnForgotPass.setOnClickListener {
             startActivity(Intent(this, ForgotPasswordActivity::class.java))
+            finishAffinity()
         }
 
         binding.tbSignIn.setNavigationOnClickListener {
